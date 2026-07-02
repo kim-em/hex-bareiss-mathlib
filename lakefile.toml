@@ -3,13 +3,13 @@ defaultTargets = ["HexBareissMathlib"]
 
 [[require]]
 name = "HexBasic"
-git = "https://github.com/kim-em/hex-basic.git"
+git = "https://github.com/leanprover/hex-basic.git"
 rev = "f1580d28c2e9ff9e8d4d7cdef9dccbaa17780b03"
 
 [[require]]
 name = "HexDeterminantMathlib"
-git = "https://github.com/kim-em/hex-determinant-mathlib.git"
-rev = "ae285cb33473b37a1c868f250aa4c9a3854390f2"
+git = "https://github.com/leanprover/hex-determinant-mathlib.git"
+rev = "3370272f212fb1a1e0a31c39d9ce2c1c9c571dda"
 
 [[require]]
 name = "mathlib"
